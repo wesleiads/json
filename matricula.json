@@ -1,6 +1,5 @@
 {
     "nome":"Carlos Eduardo da Fonseca",
-    "cpf":06975891097,
     "rg":489156789,
     "idade": 7,
     "nomepai":"Luis Antonio da Fonseca",
@@ -10,7 +9,8 @@
     "anoletivo":"Fundamental",
     "turno":"Manhã",
     "matricula":"Nova",
-    "endereco":"Rua De Guaitanazes, n 322 - Curitiba - PR"
+    "endereco":"Rua De Guaitanazes, n 322 - Curitiba - PR",
+    "cpf":06975891097
 		
 }
 
