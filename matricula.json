@@ -1,8 +1,5 @@
 {
     "nome":"Carlos Eduardo da Fonseca",
-    "numeromatricula":123456,
-    "rg":489156789,
-    "idade": 7,
     "nomepai":"Luis Antonio da Fonseca",
     "rgresp":"778225893",
     "cpfresp":"07895848920",
@@ -17,6 +14,11 @@
     "telefone":"41-3552-5252",
     "celular":"41-99886-8589",
     "cep":"833308-130"
-    
-		
+    	
+},
+{
+    "numeromatricula":123456,
+    "rg":489156789,
+    "idade": 7
+	
 }
